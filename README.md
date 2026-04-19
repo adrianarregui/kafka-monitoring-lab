@@ -1,12 +1,12 @@
-# # 📊 Monitoreo de Infraestructura con Kafka y MongoDB
+## 📊 Monitoreo de Infraestructura con Kafka y MongoDB
 # 
-# # ¡Hola! En este repositorio comparto mi práctica para el curso de **Big Data Aplicado**. 
-# # El objetivo principal fue montar un pipeline de datos completo: desde la generación 
-# # de métricas de servidores en tiempo real hasta su almacenamiento y análisis en la nube.
+## ¡Hola! En este repositorio comparto mi práctica para el curso de **Big Data Aplicado**. 
+## El objetivo principal fue montar un pipeline de datos completo: desde la generación 
+## de métricas de servidores en tiempo real hasta su almacenamiento y análisis en la nube.
 # 
-# # La idea era simular un entorno real donde varios servidores reportan su estado 
-# # (CPU, RAM, Disco, etc.) y nosotros debemos capturar esa información, guardarla 
-# # y sacar estadísticas rápidas (KPIs).
+## La idea era simular un entorno real donde varios servidores reportan su estado 
+## (CPU, RAM, Disco, etc.) y nosotros debemos capturar esa información, guardarla 
+## y sacar estadísticas rápidas (KPIs).
 # 
 # # ## 🛠️ Tecnologías utilizadas
 # # * **Python**: Para programar tanto el productor como el consumidor.
